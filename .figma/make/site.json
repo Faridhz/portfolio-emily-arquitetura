@@ -1,0 +1,11 @@
+{
+  "title": "Emily Lima | Arquitetura e Interiores em João Pessoa",
+  "description": "Portfólio de Emily Lima, arquiteta em João Pessoa, Paraíba. Projetos residenciais, comerciais, interiores e consultoria.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
